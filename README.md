@@ -1,6 +1,6 @@
 Hey I am KittenLord, I am 15, from Ukraine, and know quite some shit about C#
 
-Apart from coding I like drawing sometimes and making music, which is surprisingly useful when making (trying to make) games
+Apart from coding I like to draw sometimes and make music, which is surprisingly useful when making (trying to make) games
 
 I really should learn more languages which are actually useful (apart form the goddamn unity)
 
