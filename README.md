@@ -1,7 +1,4 @@
-Hey, I am KittenLord, I am 17, am from Ukraine, and know some C#.
+Hello, my name is Vanya, I am also known online as KittenLord or Meowgoo. I am 18 years old and as of now I specialise in C# and Unity (todo: learn more stuff)
 
-Apart from coding I like to draw and make music, which is surprisingly useful when making (or rather trying to make) games
-
-I really should learn more languages which are actually useful (apart from the goddamn c#/unity)
-
-So that's it, maybe I'll add more contacts here later
+itch.io - https://kittenpowerlord.itch.io/
+discord - meowgoo
